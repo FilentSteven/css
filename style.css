@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NL+Guides&display=swap');
+p{
+    font-size: 24px;
+  
+}
+.paragrafo{
+    font-size: 50px ;
+    background-color: red;
+    color: white;
+    text-align: justify;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    text-decoration:underline;
+    line-height: 150px;
+    text-transform: uppercase;
+    font-family: "Playwrite NL Guides", cursive;
+}
+#elementoUnico{
+    font-size: 12 px;
+    background-color: blue;
+    color: white;
+     text-align: justify;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+    text-decoration:underline;
+    font-family: "Playwrite NL Guides", cursive;
+
+}
